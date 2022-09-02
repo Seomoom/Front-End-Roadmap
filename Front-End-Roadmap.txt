@@ -1,0 +1,24 @@
+[공부 순서 (feat.생활코딩) ]
+web1 - HTML
+web2 - JavaScript
+web2 - CSS
+언어 - JavaScript
+ 라이브러리, React라던지, Vue
+
+[프론트엔드 공부 순서]
+html, css, javascript
+git hub 
+웹보안(https, cors..)
+패키지관리자
+css설계, 전처리기(모던프레임워크?)
+build tools
+프레임워크 선택(react.js/angular/vue.js)
+css in js
+web components
+css 프레임워크
+서버 사이드 렌더링
+graphql
+정적 사이트 생성기
+모바일 애플리케이션
+데스크톱 애플리케이션
+웹 어셈블리
